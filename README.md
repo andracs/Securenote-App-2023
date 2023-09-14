@@ -1,4 +1,4 @@
-# Securenote.com
+# Securenote App
 
 En simpel og sårbar notetagningsapplikaton.
 
