@@ -26,5 +26,5 @@ OBS! Live Server er en extension for [Visual Studio Code](https://marketplace.vi
 ## 3. Sådan virker det
 Nu kan du bruge notetagnings-applikationen, som ser sådan ud:
 
-<img src="docs/3_screenshot.png" alt="Screenshot" width="600"/>
+<img src="docs/3_screenshot.png" alt="Screenshot" width="360"/>
 
